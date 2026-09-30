@@ -1,0 +1,25 @@
+packages/host-service/src/trpc/router/usage/history/pricing.test.ts
+  s_f627d4d766ac3d::t_cdbbc0600e2093 60-112
+packages/host-service/src/trpc/router/usage/history/pricing.ts
+  s_f627d4d766ac3d::t_b1ee95d8d2bd39 11,22,54-60,206-207
+packages/shared/src/agent-models.test.ts
+  s_f627d4d766ac3d::t_66e004d67361a8 61,219-224,412-424
+packages/shared/src/agent-models.ts
+  s_f627d4d766ac3d::t_0c9c0276fe9a03 101,156,597,609-615
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6d9b55f9ff016c026ecda2dc360b05c3a17ac0d3",
+  "prompts": {},
+  "sessions": {
+    "s_f627d4d766ac3d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0f42c-66ff-7163-9a1e-8b15dfd3d621",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Josh Chambers <joshchambers85@yahoo.com>"
+    }
+  }
+}
