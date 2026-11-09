@@ -1,0 +1,81 @@
+apps/desktop/src/renderer/routes/_authenticated/_dashboard/automations/components/TriggerSentence/components/TextFilterChip/TextFilterChip.tsx
+  s_8f87988a51d8ce::t_bde717aa18b7a1 44
+apps/desktop/src/renderer/routes/_authenticated/_dashboard/automations/components/providers/linear/grammar.ts
+  s_8f87988a51d8ce::t_c05e27424cfb8c 31-42,46-50,117
+apps/api/src/app/api/integrations/linear/webhook/processDelivery.test.ts
+  s_8f87988a51d8ce::t_7ec4b1a5b6bf96 162
+  s_8f87988a51d8ce::t_60ab0bb900cac5 163-165,170-172,190,196
+apps/desktop/src/renderer/routes/_authenticated/_dashboard/automations/components/providers/linear/linear.test.tsx
+  s_8f87988a51d8ce::t_96a3eb4b0839bf 14-17,26,45
+packages/shared/src/automation-triggers.ts
+  s_8f87988a51d8ce::t_c05e27424cfb8c 231,519-521
+packages/shared/src/automation-matching/linear.test.ts
+  s_8f87988a51d8ce::t_7ec4b1a5b6bf96 34,45-66,71-86,98
+  s_8f87988a51d8ce::t_593919d32daaad 87-89
+packages/shared/src/automation-matching/linear.ts
+  s_8f87988a51d8ce::t_c05e27424cfb8c 42-47,112-115
+apps/docs/content/docs/automations.mdx
+  s_8f87988a51d8ce::t_854bc9ecd573d6 61
+packages/i18n/locales/cs/messages.po
+  s_2e06919c6c79e3::t_d287588748734e 4956-4961,5414-5416
+packages/i18n/locales/de/messages.po
+  s_2e06919c6c79e3::t_0c35e87fea2eb0 4956-4961,5414-5416
+packages/i18n/locales/en/messages.po
+  s_8f87988a51d8ce::t_e2a7211e52bd4e 4956-4961,5414-5416
+packages/i18n/locales/es/messages.po
+  s_2e06919c6c79e3::t_2c96e6c18f1ada 4956-4961,5414-5416
+packages/i18n/locales/fr/messages.po
+  s_2e06919c6c79e3::t_cd01f41121325f 4956-4961,5414-5416
+packages/i18n/locales/id/messages.po
+  s_2e06919c6c79e3::t_8dd272b34c78e0 4956-4961,5414-5416
+packages/i18n/locales/it/messages.po
+  s_2e06919c6c79e3::t_2581f7e73dd15a 4956-4961,5414-5416
+packages/i18n/locales/ja/messages.po
+  s_2e06919c6c79e3::t_ac0fe41a981dde 4956-4961,5414-5416
+packages/i18n/locales/ko/messages.po
+  s_2e06919c6c79e3::t_ccee9a570fa04d 4956-4961,5414-5416
+packages/i18n/locales/nl/messages.po
+  s_2e06919c6c79e3::t_17bb756b8caece 4956-4961,5414-5416
+packages/i18n/locales/pl/messages.po
+  s_2e06919c6c79e3::t_ff11f95c4b997e 4956-4961,5414-5416
+packages/i18n/locales/pt-BR/messages.po
+  s_2e06919c6c79e3::t_738a2486911c3d 4956-4961,5414-5416
+packages/i18n/locales/ru/messages.po
+  s_2e06919c6c79e3::t_614504237e69eb 4956-4961,5414-5416
+packages/i18n/locales/tr/messages.po
+  s_2e06919c6c79e3::t_f1e052acc36e34 4956-4961,5414-5416
+packages/i18n/locales/uk/messages.po
+  s_2e06919c6c79e3::t_1066bd53754406 4950-4955,5408-5410
+packages/i18n/locales/vi/messages.po
+  s_2e06919c6c79e3::t_279b709a90ab66 4956-4961,5414-5416
+packages/i18n/locales/zh-CN/messages.po
+  s_2e06919c6c79e3::t_60b052eded48dd 4956-4961,5414-5416
+packages/i18n/locales/zh-TW/messages.po
+  s_2e06919c6c79e3::t_5a7176ecbeb495 4956-4961,5414-5416
+packages/mcp/src/tools/automations/triggers.ts
+  s_8f87988a51d8ce::t_37b7117221229e 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "68ac4dd5cd2389a3cd5c5848d10eb6005b4eb533",
+  "prompts": {},
+  "sessions": {
+    "s_2e06919c6c79e3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "808542dc-dd89-40a5-9819-3ccf6033949b",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Josh Chambers <joshchambers85@yahoo.com>"
+    },
+    "s_8f87988a51d8ce": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c21f-4258-77e1-8e82-e387332cde2b",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Josh Chambers <joshchambers85@yahoo.com>"
+    }
+  }
+}
