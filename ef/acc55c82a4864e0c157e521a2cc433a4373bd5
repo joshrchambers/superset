@@ -1,0 +1,19 @@
+apps/desktop/src/renderer/routes/_authenticated/_dashboard/automations/components/providers/linear/grammar.ts
+  s_8f87988a51d8ce::t_af1cfdf34506e9 108
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "efacc55c82a4864e0c157e521a2cc433a4373bd5",
+  "prompts": {},
+  "sessions": {
+    "s_8f87988a51d8ce": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1c21f-4258-77e1-8e82-e387332cde2b",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Josh Chambers <joshchambers85@yahoo.com>"
+    }
+  }
+}
