@@ -1,0 +1,36 @@
+packages/host-service/src/runtime/pull-requests/utils/github-query/github-query.ts
+  s_48f58a0916bc78::t_a76ec2fede6ee5 130-136
+packages/host-service/src/runtime/pull-requests/utils/landed-merge/landed-merge.test.ts
+  s_48f58a0916bc78::t_59768e0686bc0b 15-18
+  s_48f58a0916bc78::t_1238c998e1adfd 1-14,19-30
+packages/host-service/src/runtime/pull-requests/pull-requests.ts
+  s_48f58a0916bc78::t_da2fc572757af2 1677
+  s_48f58a0916bc78::t_65cfba895ea140 6,45-51,90,293,321,1630-1676,1678-1730,1820,1823-1828,1862-1867,1875-1877,1881
+packages/host-service/src/runtime/pull-requests/utils/landed-merge/index.ts
+  s_48f58a0916bc78::t_e06655cd055e66 1-8
+packages/host-service/src/runtime/pull-requests/pull-requests.test.ts
+  s_48f58a0916bc78::t_8e62efe35e3b98 612-731
+packages/host-service/src/runtime/pull-requests/utils/landed-merge/landed-merge.ts
+  s_48f58a0916bc78::t_c156e54a8327cc 1-102,104-153
+  s_48f58a0916bc78::t_59768e0686bc0b 103
+packages/host-service/src/runtime/pull-requests/utils/github-query/github-query.test.ts
+  s_48f58a0916bc78::t_1f6c60e49f8f1f 75-76
+packages/host-service/src/runtime/pull-requests/utils/github-query/types.ts
+  s_48f58a0916bc78::t_a76ec2fede6ee5 43-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0d0d48836db0af3a6c652ce4afbb5261325aa4fb",
+  "prompts": {},
+  "sessions": {
+    "s_48f58a0916bc78": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ce946dc3-249b-417b-8717-320b098d38d8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Josh <joshchambers85@yahoo.com>"
+    }
+  }
+}
