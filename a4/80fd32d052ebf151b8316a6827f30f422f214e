@@ -1,0 +1,19 @@
+packages/host-service/src/runtime/pull-requests/pull-requests.test.ts
+  s_48f58a0916bc78::t_523dfe5ed8928b 2115-2129,2131-2152,2154-2176
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a480fd32d052ebf151b8316a6827f30f422f214e",
+  "prompts": {},
+  "sessions": {
+    "s_48f58a0916bc78": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ce946dc3-249b-417b-8717-320b098d38d8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Josh <joshchambers85@yahoo.com>"
+    }
+  }
+}
