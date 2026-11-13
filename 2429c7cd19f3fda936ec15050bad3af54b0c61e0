@@ -1,0 +1,26 @@
+packages/host-service/src/trpc/router/usage/history/pricing.test.ts
+  s_eca140c4e35e60::t_3239f7c791c4b5 122-132
+packages/shared/src/agent-models.ts
+  s_eca140c4e35e60::t_3239f7c791c4b5 80-83,139
+  s_eca140c4e35e60::t_8fec5f1f2eb4db 79
+packages/host-service/src/trpc/router/usage/history/pricing.ts
+  s_eca140c4e35e60::t_3239f7c791c4b5 11,31-32
+packages/shared/src/agent-models.test.ts
+  s_eca140c4e35e60::t_3239f7c791c4b5 56,60,129,144
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2429c7cd19f3fda936ec15050bad3af54b0c61e0",
+  "prompts": {},
+  "sessions": {
+    "s_eca140c4e35e60": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d05e8a49-5226-449f-be89-81a93fa15154",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Josh Chambers <joshchambers85@yahoo.com>"
+    }
+  }
+}
